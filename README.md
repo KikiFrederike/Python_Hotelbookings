@@ -29,3 +29,6 @@ Python was used for the analysis including the following libraries:
 - Datetime
 
 Please note this project was for educational purposes. 
+
+A Tableau storyboard was also used for this analysis project and can be found here: https://public.tableau.com/app/profile/frederike.schulz.m.llensiefen/viz/6_Hotelbookingsdashboard/Story1?publish=yes
+Please note, that the storyboard doesn’t contain all parts of the analysis. 
